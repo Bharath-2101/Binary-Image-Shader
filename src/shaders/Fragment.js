@@ -1,8 +1,6 @@
 const Fragment = `
 varying vec2 vUv;
 uniform sampler2D u_texture;
-uniform float u_time;
-uniform float u_speed;
 uniform vec3 shadow;
 uniform vec3 highlight;
 uniform float bias;
